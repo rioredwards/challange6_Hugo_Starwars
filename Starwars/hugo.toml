@@ -1,0 +1,9 @@
+baseURL = 'http://starwars.org/'
+languageCode = 'en-us'
+title = 'Starwars Characters'
+theme = "hugo-liftoff"
+[params]
+  author = "Rio Edwards"
+[[resources]]
+  name = 'avatar'
+  src = 'images/avatar.jpg'

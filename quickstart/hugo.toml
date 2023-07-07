@@ -1,0 +1,4 @@
+baseURL = 'http://mywebsite.org/'
+languageCode = 'en-us'
+title = 'My Cool Site'
+theme = 'ananke'
